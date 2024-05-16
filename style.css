@@ -1,0 +1,44 @@
+body{
+    /* width: 100vb;
+    height: 100vb; */
+    background-image: url('fon2.jpg') ;
+    background-repeat: no-repeat;
+    /* background-size: 100%; */
+}
+.name{
+    font-size: 70px;
+    text-align: center;
+    color: rgb(225, 100, 11);
+
+}
+.name2{
+    font-size: 50px;
+    text-align: center;
+    color: blueviolet;
+
+}
+.name_text{
+    margin: 20px;
+    font-size: 70px;
+    width: 80px;
+    height: 80px;
+}
+.link{
+    font-size: 40px;
+    text-align: center;
+    text-decoration: none;
+    color: rgb(7, 81, 145);
+}
+.centr{
+    text-align: center;
+}
+.main{
+   text-align: center;
+    border-radius: 10px 100px / 120px;
+
+}
+.contacts{
+    color: rgb(8, 137, 17);
+    font-size: 40px;
+    text-align: center;
+}
